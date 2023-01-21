@@ -1,0 +1,58 @@
+/* Author: Monisha
+Date : 07.01.2023  */
+.cl1{
+    color: rgb(3, 93, 122);
+
+    background-color: azure;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+nav>a{
+    text-decoration: none;
+    font-size: large;
+    color: rgb(3, 93, 122);
+
+}
+.container{
+    width:900px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+}
+.img{
+    width: 100px;
+}
+.img1{
+    width: 100%;
+}
+h1{
+    color: rgb(3, 93, 122);   
+}
+li:first-child{
+    font-weight: bold;
+}
+aside{
+    background-color:  azure;
+    width: 500px;
+    padding: 20px;
+    border-top:5px solid  rgb(3, 93, 122);
+    border-bottom:5px solid  rgb(3, 93, 122);
+    display: flex;
+    flex-direction: column;
+    align-self: flex-start;
+}
+
+.body{
+    display: flex;
+    margin-top: 40px;
+}
+.adiv{
+    display: flex;
+    margin-top: 30px;
+    gap:10px;
+    
+}
+
+
